@@ -136,7 +136,7 @@ function Footer({ c }: { c: Copy }) {
         <div className="footer-col"><h3>{c.menu.comeBy}</h3><p>{c.menu.address1}<br />{c.menu.address2}</p><a href="https://www.instagram.com/kelagreek/" target="_blank" rel="noreferrer" aria-label={c.common.instagram} data-testid="link-instagram"><Instagram size={18} /></a></div>
       </div>
     </div>
-    <div className="container-wide footer-bottom"><span>© 2026 KELA</span><span>{c.common.photo}</span><span>KELA · {c.language}</span></div>
+    <div className="container-wide footer-bottom"><span>© 2026 KELA</span><span>KELA · {c.language}</span></div>
   </footer>
 }
 
