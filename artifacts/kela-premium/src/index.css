@@ -337,5 +337,5 @@ a:hover .arrow, button:hover .arrow { transform: translateX(4px); }
   .hero-visual-wash, .hero-photo, .hero-illustration, .hero-seal { transform: none; }
 }
 @media (min-width: 801px) {
-  .ticker-track { animation-duration: 24s !important; }
+  .ticker-track { animation-duration: 25s !important; }
 }
