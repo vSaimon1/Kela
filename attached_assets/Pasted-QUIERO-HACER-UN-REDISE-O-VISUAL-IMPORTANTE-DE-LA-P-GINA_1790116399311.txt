@@ -1,0 +1,502 @@
+QUIERO HACER UN REDISEÑO VISUAL IMPORTANTE DE LA PÁGINA DE INICIO DE KELA.
+
+Utiliza como referencia visual la captura de pantalla que te proporcioné de la página de Mythos, PERO NO COPIES SU DISEÑO, ilustraciones, personajes, composición exacta, textos ni elementos gráficos.
+
+Quiero que entiendas la IDEA detrás de ese diseño y la traduzcas a la identidad de KELA.
+
+La referencia representa el tipo de experiencia visual que busco:
+
+- una marca gastronómica premium
+- un hero muy visual
+- un fondo con personalidad
+- una ilustración propia de la marca
+- un producto grande y protagonista
+- tipografía editorial
+- composición artística
+- mucho espacio visual
+- storytelling
+- sensación de marca internacional
+- diseño memorable
+
+KELA debe tener una versión ORIGINAL de ese concepto.
+
+━━━━━━━━━━━━━━━━━━━━
+1. HERO PRINCIPAL DE KELA
+━━━━━━━━━━━━━━━━━━━━
+
+Rediseña completamente el hero de la homepage.
+
+Quiero que la primera pantalla sea una composición artística y premium.
+
+Debe tener un fondo utilizando los COLORES REALES DE KELA.
+
+Analiza primero el branding existente en:
+
+https://kela-53ly.onrender.com
+
+y utiliza sus colores como base.
+
+NO inventes una paleta completamente diferente.
+
+El fondo puede ser:
+
+- un degradado sofisticado
+- una textura orgánica
+- una composición abstracta
+- formas suaves
+- textura inspirada en ingredientes
+- elementos gráficos relacionados con la identidad de KELA
+
+Debe sentirse como una pieza visual diseñada específicamente para KELA.
+
+NO quiero simplemente un fondo de color sólido.
+
+━━━━━━━━━━━━━━━━━━━━
+2. PRODUCTO PROTAGONISTA
+━━━━━━━━━━━━━━━━━━━━
+
+Quiero una fotografía grande y muy atractiva de un helado/frozen yogurt/producto real de KELA.
+
+La fotografía del producto debe ser uno de los elementos principales del hero.
+
+Debe verse:
+
+- deliciosa
+- fresca
+- premium
+- apetecible
+- tridimensional
+- profesional
+
+La composición puede hacer que el producto parezca estar flotando sobre el fondo.
+
+Puedes utilizar:
+
+- sombras suaves
+- pequeños elementos de toppings alrededor
+- ingredientes flotando
+- pequeñas partículas
+- textura
+- movimiento visual
+
+PERO debe mantenerse elegante.
+
+No quiero que parezca un anuncio barato o demasiado cargado.
+
+La fotografía debe tener suficiente espacio alrededor para que respire.
+
+━━━━━━━━━━━━━━━━━━━━
+3. ILUSTRACIÓN ORIGINAL DE KELA
+━━━━━━━━━━━━━━━━━━━━
+
+Esta parte es MUY IMPORTANTE.
+
+Quiero crear una ilustración/mascota/personaje gráfico ORIGINAL que represente a KELA.
+
+Toma como REFERENCIA CONCEPTUAL la manera en que Mythos utiliza una ilustración mitológica dentro de su hero.
+
+PERO:
+
+NO copies al personaje de Mythos.
+
+NO hagas una versión modificada de Zeus.
+
+NO copies su pose.
+
+NO copies su estilo exacto.
+
+NO copies sus líneas.
+
+NO copies su composición.
+
+NO hagas un personaje que pueda confundirse con el de Mythos.
+
+Quiero que diseñes un personaje/figura gráfica NUEVA y ORIGINAL que tenga relación con KELA.
+
+La ilustración debe sentirse:
+
+- simpática
+- elegante
+- memorable
+- moderna
+- artística
+- relacionada con el mundo del frozen yogurt / helado / ingredientes / frescura
+- reconocible como parte de la identidad KELA
+
+Puede ser, por ejemplo, una interpretación artística de:
+
+- una figura abstracta
+- un personaje inspirado en un ingrediente
+- una figura humana estilizada
+- una criatura relacionada con el universo de KELA
+- una mascota
+- una composición botánica
+- una figura conceptual
+
+Pero debes escoger el concepto que mejor encaje con la identidad real de KELA.
+
+IMPORTANTE:
+
+No quiero un personaje infantil tipo caricatura genérica.
+
+Debe sentirse como una ilustración de branding profesional.
+
+Piensa:
+
+"mascota de una marca premium"
+
+en lugar de:
+
+"personaje de dibujos animados".
+
+La ilustración puede aparecer parcialmente detrás del producto, integrada con el fondo.
+
+Debe formar parte de la composición, no parecer una imagen pegada encima.
+
+━━━━━━━━━━━━━━━━━━━━
+4. COMPOSICIÓN DEL HERO
+━━━━━━━━━━━━━━━━━━━━
+
+Utiliza una composición editorial.
+
+NO quiero que todos los elementos estén centrados de forma convencional.
+
+Quiero una composición con profundidad.
+
+Por ejemplo:
+
+FONDO
+↓
+ILUSTRACIÓN DE KELA
+↓
+PRODUCTO
+↓
+TIPOGRAFÍA
+↓
+CTA
+
+Algunos elementos pueden estar parcialmente superpuestos.
+
+El producto debe ser protagonista.
+
+La ilustración debe funcionar como elemento secundario de storytelling.
+
+El texto debe complementar la imagen, no competir con ella.
+
+━━━━━━━━━━━━━━━━━━━━
+5. TEXTO DEL HERO
+━━━━━━━━━━━━━━━━━━━━
+
+Utiliza el contenido REAL que ya existe en KELA.
+
+No inventes claims que KELA no tenga.
+
+El headline debe ser corto, fuerte y visual.
+
+Debe funcionar casi como un titular de revista.
+
+Utiliza una combinación de:
+
+SERIF EDITORIAL
+
+para el headline principal
+
++
+
+SANS-SERIF MODERNA
+
+para información secundaria y botones.
+
+El headline puede ocupar varias líneas.
+
+Quiero una tipografía grande y con mucho impacto.
+
+━━━━━━━━━━━━━━━━━━━━
+6. ESTILO VISUAL
+━━━━━━━━━━━━━━━━━━━━
+
+El lenguaje visual debe combinar:
+
+MYTHOS:
+- storytelling
+- ilustración
+- editorial
+- sofisticación
+- composición artística
+- producto protagonista
+
+EIGHT COOKIES:
+- energía
+- producto
+- gastronomía
+- modernidad
+- comunicación directa
+
+KELA:
+- identidad propia
+- frozen yogurt
+- ingredientes
+- frescura
+- personalidad
+
+El resultado NO debe parecer una copia de Mythos.
+
+Debe parecer una marca que podría existir internacionalmente.
+
+━━━━━━━━━━━━━━━━━━━━
+7. ANIMACIONES DEL HERO
+━━━━━━━━━━━━━━━━━━━━
+
+Haz que el hero tenga movimiento muy sutil.
+
+Al cargar la página:
+
+1. aparece el fondo
+2. aparece la ilustración suavemente
+3. aparece el producto
+4. aparece el headline
+5. aparece el CTA
+
+Las animaciones deben ser suaves y premium.
+
+Al hacer scroll:
+
+- el producto puede desplazarse ligeramente
+- la ilustración puede moverse a una velocidad diferente
+- el fondo puede tener un pequeño efecto de profundidad
+
+NO exageres el parallax.
+
+La prioridad es que se sienta sofisticado y no como una página llena de efectos.
+
+━━━━━━━━━━━━━━━━━━━━
+8. SECCIÓN TOPPINGS
+━━━━━━━━━━━━━━━━━━━━
+
+También quiero modificar la sección de TOPPINGS.
+
+Actualmente existe una fotografía de los toppings.
+
+QUIERO CONSERVAR ESA FOTOGRAFÍA.
+
+Pero quiero mejorar muchísimo su presentación.
+
+La fotografía debe quedar:
+
+- un poco más abajo
+- más centrada verticalmente
+- mejor integrada con el diseño
+- con más espacio alrededor
+- visualmente equilibrada respecto al texto
+
+NO quiero que la imagen quede demasiado pegada al borde superior.
+
+Bájala ligeramente para que tenga más aire.
+
+También quiero que el bloque completo de toppings tenga una composición editorial.
+
+Por ejemplo:
+
+IZQUIERDA:
+Título "Toppings"
+
+Descripción
+
+Categorías
+
+Precios
+
+DERECHA:
+Fotografía de toppings
+
+Pero la imagen debe estar ligeramente más abajo respecto al inicio del texto.
+
+No tiene que empezar exactamente a la misma altura que el título.
+
+Quiero una composición deliberadamente asimétrica.
+
+━━━━━━━━━━━━━━━━━━━━
+9. TOPPINGS — DISEÑO
+━━━━━━━━━━━━━━━━━━━━
+
+No conviertas los toppings en una tabla aburrida.
+
+Quiero mantener la información existente, pero presentarla como un menú editorial premium.
+
+Utiliza:
+
+- líneas finas
+- mucho whitespace
+- tipografía elegante
+- pequeños detalles
+- precios alineados
+- categorías claras
+- separadores sutiles
+
+Las categorías deben sentirse como diferentes capítulos.
+
+Por ejemplo:
+
+CLASSIC TOPPINGS
+───────────────
+Almonds · Coconut · Strawberry · ...
+
+PREMIUM TOPPINGS
+───────────────
+Pistachios · ...
+
+KELA TOPPINGS
+───────────────
+KELA Choccy Crunch · ...
+
+Pero utiliza los nombres REALES que ya existen en la web.
+
+NO inventes productos.
+
+━━━━━━━━━━━━━━━━━━━━
+10. IMPORTANTE — POSICIONAMIENTO DE LA FOTO
+━━━━━━━━━━━━━━━━━━━━
+
+La foto de toppings debe moverse ligeramente hacia abajo respecto al diseño actual.
+
+Quiero aproximadamente:
+
+- 30–60 px más abajo en desktop
+
+o el equivalente proporcional que visualmente se vea correcto.
+
+No quiero que simplemente cambies el margen sin revisar la composición completa.
+
+Ajusta:
+
+- margin
+- padding
+- align-self
+- posición vertical
+
+según sea necesario.
+
+En mobile, la imagen debe adaptarse naturalmente.
+
+NO debe quedar demasiado abajo ni generar un espacio vacío excesivo.
+
+━━━━━━━━━━━━━━━━━━━━
+11. SECCIÓN ENTRE HERO Y TOPPINGS
+━━━━━━━━━━━━━━━━━━━━
+
+Haz que el paso del hero a la siguiente sección se sienta elegante.
+
+Puedes utilizar:
+
+- una transición de color
+- una curva
+- una sección blanca/crema
+- una forma orgánica
+- una línea editorial
+- un pequeño elemento gráfico de KELA
+
+Inspiración conceptual:
+
+el hero debe sentirse como una pieza artística que continúa hacia el resto de la página.
+
+━━━━━━━━━━━━━━━━━━━━
+12. RESPONSIVE
+━━━━━━━━━━━━━━━━━━━━
+
+En desktop:
+
+El hero debe sentirse amplio y cinematográfico.
+
+En tablet:
+
+Reduce proporcionalmente producto, ilustración y tipografía.
+
+En mobile:
+
+NO simplemente reduzcas todo.
+
+Rediseña la composición.
+
+En mobile quiero:
+
+Fondo
+↓
+Ilustración
+↓
+Producto
+↓
+Headline
+↓
+CTA
+
+o una composición equivalente que mantenga la sensación premium.
+
+La ilustración debe seguir siendo visible.
+
+El producto debe seguir siendo protagonista.
+
+No permitas:
+
+- texto cortado
+- elementos superpuestos incorrectamente
+- scroll horizontal
+- imágenes deformadas
+- botones fuera de pantalla.
+
+━━━━━━━━━━━━━━━━━━━━
+13. NO COPIAR
+━━━━━━━━━━━━━━━━━━━━
+
+La captura de Mythos es solamente una REFERENCIA DE DIRECCIÓN DE ARTE.
+
+NO copies:
+
+- su logo
+- su personaje
+- su ilustración
+- su tipografía exacta
+- su fondo
+- su composición exacta
+- sus textos
+- sus fotografías
+- sus elementos gráficos
+- sus proporciones exactas
+
+Quiero que extraigas el PRINCIPIO DE DISEÑO:
+
+"Una marca gastronómica puede contar su historia mediante una composición visual artística donde producto + ilustración + tipografía + color forman una sola pieza."
+
+Aplica ese principio a KELA.
+
+━━━━━━━━━━━━━━━━━━━━
+14. RESULTADO QUE QUIERO
+━━━━━━━━━━━━━━━━━━━━
+
+Cuando alguien entre a KELA debe sentir inmediatamente:
+
+"Esto es una marca."
+
+No quiero que parezca:
+
+"una página web con productos."
+
+Quiero:
+
+PRODUCTO + ARTE + STORYTELLING + IDENTIDAD.
+
+La homepage debe tener una primera pantalla que sea suficientemente memorable como para que alguien quiera seguir haciendo scroll.
+
+Debe sentirse:
+
+premium
+moderna
+gastronómica
+artística
+cálida
+sofisticada
+original
+profesional
+
+y sobre todo:
+
+100% KELA.

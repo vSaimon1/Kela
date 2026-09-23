@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "Kela Premium"
+description = "A premium, editorial web experience for Kela built from the real brand content, products, imagery, and languages already present on its current website."
+version = "1.0.0"
+id = "artifacts/kela-premium"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 18188
+
+[services.development]
+run = "pnpm --filter @workspace/kela-premium run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/kela-premium", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/kela-premium/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "18188"
+BASE_PATH = "/"

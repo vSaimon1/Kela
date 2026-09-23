@@ -1,0 +1,1 @@
+- [Brand extraction fallback](brand-extraction.md) — when paid brand parsing is unavailable, use live page fetches plus local asset downloads for design handoff.
