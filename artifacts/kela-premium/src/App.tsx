@@ -75,7 +75,7 @@ function useHeroMotion() {
     const update = () => {
       frame = 0;
       hero.style.setProperty('--scroll-shift', `${Math.min(window.scrollY * 0.045, 32)}px`);
-    };
+    }
     const onScroll = () => {
       if (!frame) frame = window.requestAnimationFrame(update);
     };
@@ -137,7 +137,7 @@ function Footer({ c }: { c: Copy }) {
       </div>
     </div>
     <div className="container-wide footer-bottom"><span>© 2026 KELA</span><span>{c.common.photo}</span><span>KELA · {c.language}</span></div>
-  </footer>;
+  </footer>
 }
 
 function HomePage({ c }: { c: Copy }) {
@@ -181,7 +181,7 @@ function HomePage({ c }: { c: Copy }) {
     <section className="feature-split"><div className="container-wide feature-grid"><div className="image-frame feature-image reveal"><img src="/images/icrecream2.jpeg" alt={c.menu.toppingsDescription} /></div><div className="feature-copy reveal delay-1"><div className="section-label">{c.home.featureLabel}</div><h2 className="display">{c.home.featureTitle}</h2><p>{c.home.featureText}</p><Link href="/menu" className="btn-quiet" data-testid="link-feature-menu">{c.home.featureCta} <ArrowUpRight size={15} /></Link></div></div></section>
     <section className="gallery-strip" aria-label={c.home.galleryLabel}><figure className="image-frame reveal"><img src="/images/classic.png" alt="KELA classic cup" /></figure><figure className="image-frame reveal delay-1"><img src="/images/cone.png" alt="KELA frozen yogurt cone" /></figure><figure className="image-frame reveal delay-2" data-photo-credit={c.common.photos}><img src="/images/coffee.png" alt="KELA iced latte" /></figure></section>
     <section className="cta-band"><div className="container-wide reveal"><div className="section-label" style={{ justifyContent: 'center' }}>03 / Toronto</div><h2 className="display">{c.home.ctaTitle}</h2><p>{c.home.ctaText}</p><Link className="btn-primary" href="/menu" data-testid="link-cta-menu">{c.home.primary} <ArrowUpRight size={15} /></Link></div></section>
-  </main>;
+  </main>
 }
 
 function FrozenYogurtCarousel({ c }: { c: Copy }) {
@@ -225,8 +225,8 @@ function FrozenYogurtCarousel({ c }: { c: Copy }) {
         <span className="mono">0{activePhoto + 1} / 0{photos.length}</span>
         <button type="button" onClick={showNext} aria-label="Next frozen yogurt photo"><ArrowRight size={16} /></button>
       </div>
-    </div>;
-  </div>;
+    </div>
+  </div>
   return target ? createPortal(carousel, target) : null;
 }
 
